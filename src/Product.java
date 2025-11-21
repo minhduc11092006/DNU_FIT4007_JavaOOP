@@ -19,5 +19,4 @@ public abstract class Product implements Serializable {
 
     public abstract String getDetail();
 
-    //Duy Anh
 }
